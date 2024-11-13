@@ -5,6 +5,7 @@
         background-image: linear-gradient(to left, rgba(0, 0, 0, 0.76), #a80000);
     }
     section#login {
+        height: 350px;
         width: 700px;
     }
     section div#imagem {
@@ -29,6 +30,7 @@
         background-image: linear-gradient(to left, rgba(0, 0, 0, 0.76), #a80000);
     }
     section#login {
+        height: 350px;
         width: 950px;
     }
     section div#imagem {
