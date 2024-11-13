@@ -5,7 +5,7 @@
         background-image: linear-gradient(to left, rgba(0, 0, 0, 0.76), #a80000);
     }
     section#login {
-        height: 350px;
+        height: 300px;
         width: 700px;
     }
     section div#imagem {
@@ -17,12 +17,6 @@
         float: right;
         width: 70%;
     }
-    section div#formulario h1 {
-        font-size: 35px;
-    }
-    section div#formulario p {
-        font-size: 17px;
-    }
 }
 
 @media screen and (min-width: 993px) { /*TELA GRANDES*/
@@ -30,7 +24,7 @@
         background-image: linear-gradient(to left, rgba(0, 0, 0, 0.76), #a80000);
     }
     section#login {
-        height: 350px;
+        height: 300px;
         width: 950px;
     }
     section div#imagem {
@@ -41,11 +35,5 @@
     section div#formulario {
         float: left;
         width: 50%;
-    }
-    section div#formulario h1 {
-        font-size: 40px;
-    }
-    section div#formulario p {
-        font-size: 18px;
     }
 }
