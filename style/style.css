@@ -73,11 +73,11 @@ section div.campo {
     justify-content: flex-end;
 }
 section div.campo span {
+    font-size: 25px;
+    width: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 25px;
-    width: 40px;
 }
 section div.campo input {
     width: 100%;
